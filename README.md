@@ -1,4 +1,4 @@
-# my_app
+# MatchUp App
 
 A new Flutter project.
 
